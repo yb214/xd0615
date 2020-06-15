@@ -1,0 +1,4 @@
+安装了git
+配置自己的GitHub账号
+将本地项目上传到GitHub
+初步认识arduino
